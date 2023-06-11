@@ -1,0 +1,6 @@
+name: MagicWandPlugin
+version: '${project.version}'
+main: org.hark7.magicwandplugin.MagicWandPlugin
+commands:
+  magicwand:
+    description: Gives a magic wand to the player
